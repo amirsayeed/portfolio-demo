@@ -7,6 +7,30 @@ body {
 h1 {
     font-size: 50px;
 }
-.name{
+
+.name {
     color: orange;
+}
+
+h3 {
+    font-size: 20px;
+}
+
+p {
+    font-size: 15px;
+    text-align: justify;
+}
+
+.intro {
+    width: 50%;
+    padding-left: 30px;
+}
+
+.link-btn {
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    color: white;
+    padding: 10px 40px;
+    border-radius: 5px;
+    font-weight: 700;
 }
